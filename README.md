@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://assets.dio.me/AmCIKNey47db8GCPI9cbPK_ylWiACnT1SQyBoujOYmo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOThiMDRkNzktMjI5Ni00MGZlLThjNjctMjI0OTc4Y2E0ZjZkLnBuZw" alt="Imagem Bootcamp Automação n8n Santander" width="177">
 </p>
+
 ## ✨ n8n em Docker
 
 ### 📃 Descrição
